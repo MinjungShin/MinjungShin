@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 </br> </br>
 
-<p align = "center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinjungShin&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjungShin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
-</p>
+</div>
